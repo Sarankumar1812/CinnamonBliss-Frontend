@@ -1,4 +1,5 @@
 # Cinnamon Bliss - Frontend
+[Demo Link](https://media-hosting.imagekit.io//5749252f6ae14a08/frontend%20vedio.mp4?Expires=1836461529&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qBLu69Vt7Ka5rcW7EyRxRsuQ5aZNn-gFr~q3ic7sNBf3rc207Fm1MFNYsWpne52lW50J6MEuedsRZcLo9SsekbWBC8k4lZrRnuXeMvdtZS6HHzzk~0hFXF8uzIClFH06bX-WHOuMLNOGVzo3jrrqqHxDNGQQV~zuuz8m-ns0L38e0oz4YU~fdOCdlutA6SZlnoJTeRcVxjgFybEnJmTme3e---5aLhsuQj4H43MfkGS2u2kx8WHo3C9Pr4wozHfRRVM9NsUItoT7IUMT3BgCIDbEtbAeK85DeKM0p0ytTHcdzr8TyR-~W8bGyPolEZdUUAUOHskwEVKqOJghMPfHEw__)
 
 Cinnamon Bliss Management System is a web application built with React, Redux, Express, and Node.js. This system manages tea craft operations efficiently, providing a seamless user experience with a modern UI and optimized API handling. Prisma ORM, and JWT authentication.
 
